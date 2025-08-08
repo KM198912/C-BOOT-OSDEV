@@ -145,7 +145,7 @@ Please open an issue or submit a pull request.
 
 ## License
 
-See License file for License.
+BSD 3-Clause License
 
 ## Authors
 
